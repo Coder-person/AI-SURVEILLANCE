@@ -1,0 +1,26 @@
+body{
+    background-size:cover;
+}
+.heading{
+    width:100%;
+    font-size:25px;
+    margin-top:0;
+}
+canvas{
+    border-color:white;
+    border-width:3px;
+    box-shadow: 10px 10px 10px white;
+    border-radius:15px;
+}
+.footer{
+    width: 100%;
+    position:fixed;
+    bottom:0;
+    background-color:grey;
+    color:white;
+    line-height:2;
+    text-align:center;
+}
+#Startbtn{
+    font-size:20px;
+}
